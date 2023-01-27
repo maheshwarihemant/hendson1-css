@@ -1,0 +1,30 @@
+h3{
+    color: chocolate;
+}
+li{
+    color:brown;
+    
+}
+.para1{
+    
+    color: brown;
+    text-decoration:line-through
+
+}
+.para2{
+    background-color:yellow
+
+}
+
+.link{
+    text-decoration: none;
+
+}
+.para3{
+    
+    letter-spacing: 3px;
+    
+}
+.para4{
+    background-color: yellow;
+}
